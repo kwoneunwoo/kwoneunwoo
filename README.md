@@ -14,7 +14,7 @@
 - 👀 I’m interested in **Python, Js, Html**
 - 🔭 I’m currently working on **[share-planner](https://github.com/Share-Planner)**
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
 <h1 align="center">Contact</h1>
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwoneunwoo&show_icons=true&locale=en&layout=compact" alt="kwoneunwoo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwoneunwoo&show_icons=true&locale=en" alt="kwoneunwoo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwoneunwoo&show_icons=true&locale=en" alt="kwoneunwoo" /></p> -->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwoneunwoo&" alt="kwoneunwoo" /></p>-->
