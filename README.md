@@ -9,7 +9,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwoneunwoo&label=Profile%20views&color=0e75b6&style=flat" alt="kwoneunwoo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwoneunwoo" alt="kwoneunwoo" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
+- 🏫 Seohyun High School **33th**. (In **S**eohyun**H**ighschool**B**roadcasting**S**ystem)
 - 🌱 I'm **student developer** from korea
 - 👀 I’m interested in **Python, Js, Html**
 <!-- - 🔭 I’m currently working on **[share-planner](https://github.com/Share-Planner)**-->
