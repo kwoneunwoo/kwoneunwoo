@@ -12,7 +12,7 @@
 
 - 🌱 I'm **student developer** from korea
 - 👀 I’m interested in **Python, Js, Html**
-- 🔭 I’m currently working on **[share-planner](https://github.com/Share-Planner)**
+<!-- - 🔭 I’m currently working on **[share-planner](https://github.com/Share-Planner)**-->
 
 <!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
